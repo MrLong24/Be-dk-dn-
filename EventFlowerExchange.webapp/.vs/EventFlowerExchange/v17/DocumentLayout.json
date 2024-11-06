@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A07C54D1-ACBC-42DE-83DA-8E87D6F0A472}|EventFlowerExchange.WebApp.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07C54D1-ACBC-42DE-83DA-8E87D6F0A472}|EventFlowerExchange.WebApp.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07C54D1-ACBC-42DE-83DA-8E87D6F0A472}|EventFlowerExchange.WebApp.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07C54D1-ACBC-42DE-83DA-8E87D6F0A472}|EventFlowerExchange.WebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1449BA-A7B7-4998-B85C-6695F4D0A52E}|..\\EventFlowerExchange.service\\EventFlowerExchange.services.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1449BA-A7B7-4998-B85C-6695F4D0A52E}|..\\EventFlowerExchange.service\\EventFlowerExchange.services.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07C54D1-ACBC-42DE-83DA-8E87D6F0A472}|EventFlowerExchange.WebApp.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange\\controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07C54D1-ACBC-42DE-83DA-8E87D6F0A472}|EventFlowerExchange.WebApp.csproj|solutionrelative:controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07C54D1-ACBC-42DE-83DA-8E87D6F0A472}|EventFlowerExchange.WebApp.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07C54D1-ACBC-42DE-83DA-8E87D6F0A472}|EventFlowerExchange.WebApp.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07C54D1-ACBC-42DE-83DA-8E87D6F0A472}|EventFlowerExchange.WebApp.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07C54D1-ACBC-42DE-83DA-8E87D6F0A472}|EventFlowerExchange.WebApp.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BD0AD4-EED9-4865-94EF-4A46B949E669}|..\\EventFlowerExchange.Repositories\\EventFlowerExchange.Repositories.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.repositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BD0AD4-EED9-4865-94EF-4A46B949E669}|..\\EventFlowerExchange.Repositories\\EventFlowerExchange.Repositories.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BD0AD4-EED9-4865-94EF-4A46B949E669}|..\\EventFlowerExchange.Repositories\\EventFlowerExchange.Repositories.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.repositories\\entities\\eventflowerexchangecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BD0AD4-EED9-4865-94EF-4A46B949E669}|..\\EventFlowerExchange.Repositories\\EventFlowerExchange.Repositories.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.repositories\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1449BA-A7B7-4998-B85C-6695F4D0A52E}|..\\EventFlowerExchange.service\\EventFlowerExchange.services.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.service\\interfaces\\iflowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1449BA-A7B7-4998-B85C-6695F4D0A52E}|..\\EventFlowerExchange.service\\EventFlowerExchange.services.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.service\\services\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BD0AD4-EED9-4865-94EF-4A46B949E669}|..\\EventFlowerExchange.Repositories\\EventFlowerExchange.Repositories.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.repositories\\repositories\\flowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BD0AD4-EED9-4865-94EF-4A46B949E669}|..\\EventFlowerExchange.Repositories\\EventFlowerExchange.Repositories.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.repositories\\entities\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BD0AD4-EED9-4865-94EF-4A46B949E669}|..\\EventFlowerExchange.Repositories\\EventFlowerExchange.Repositories.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.repositories\\interfaces\\iflowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07C54D1-ACBC-42DE-83DA-8E87D6F0A472}|EventFlowerExchange.WebApp.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A07C54D1-ACBC-42DE-83DA-8E87D6F0A472}|EventFlowerExchange.WebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BD0AD4-EED9-4865-94EF-4A46B949E669}|..\\EventFlowerExchange.Repositories\\EventFlowerExchange.Repositories.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1449BA-A7B7-4998-B85C-6695F4D0A52E}|..\\EventFlowerExchange.service\\EventFlowerExchange.services.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.service\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1449BA-A7B7-4998-B85C-6695F4D0A52E}|..\\EventFlowerExchange.service\\EventFlowerExchange.services.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BD0AD4-EED9-4865-94EF-4A46B949E669}|..\\EventFlowerExchange.Repositories\\EventFlowerExchange.Repositories.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.repositories\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BD0AD4-EED9-4865-94EF-4A46B949E669}|..\\EventFlowerExchange.Repositories\\EventFlowerExchange.Repositories.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.repositories\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BD0AD4-EED9-4865-94EF-4A46B949E669}|..\\EventFlowerExchange.Repositories\\EventFlowerExchange.Repositories.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.repositories\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BD0AD4-EED9-4865-94EF-4A46B949E669}|..\\EventFlowerExchange.Repositories\\EventFlowerExchange.Repositories.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.repositories\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BD0AD4-EED9-4865-94EF-4A46B949E669}|..\\EventFlowerExchange.Repositories\\EventFlowerExchange.Repositories.csproj|c:\\users\\philong\\documents\\t\u00E0i li\u1EC7u project\\source code\\eventflowerexchange.repositories\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:45:21.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:17:27.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.service\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.service\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.service\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.service\\Services\\UserService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwEoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:15:52.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlowerController.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange\\Controllers\\FlowerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlowerController.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange\\Controllers\\FlowerController.cs",
+              "RelativeToolTip": "Controllers\\FlowerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:16:44.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:16:57.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:17:15.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.service\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.service\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.service\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.service\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:17:05.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.Repositories\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.Repositories\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:17:13.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:11:49.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.Repositories\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Entities\\User.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.Repositories\\Entities\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:59:34.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFlowerService.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.service\\Interfaces\\IFlowerService.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.service\\Interfaces\\IFlowerService.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.service\\Interfaces\\IFlowerService.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.service\\Interfaces\\IFlowerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:01:28.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventFlowerExchangeContext.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Entities\\EventFlowerExchangeContext.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.Repositories\\Entities\\EventFlowerExchangeContext.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Entities\\EventFlowerExchangeContext.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.Repositories\\Entities\\EventFlowerExchangeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:47:17.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FlowerService.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.service\\Services\\FlowerService.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.service\\Services\\FlowerService.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.service\\Services\\FlowerService.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.service\\Services\\FlowerService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:15:21.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FlowerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Repositories\\FlowerRepository.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.Repositories\\Repositories\\FlowerRepository.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Repositories\\FlowerRepository.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.Repositories\\Repositories\\FlowerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:12:14.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Flower.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Entities\\Flower.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.Repositories\\Entities\\Flower.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Entities\\Flower.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.Repositories\\Entities\\Flower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:51:45.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFlowerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Interfaces\\IFlowerRepository.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.Repositories\\Interfaces\\IFlowerRepository.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Interfaces\\IFlowerRepository.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.Repositories\\Interfaces\\IFlowerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:11:12.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T05:24:07.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.Repositories\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.Repositories\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:11:26.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.service\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.service\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.service\\Services\\PaymentService.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.service\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:15:41.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.service\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.service\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.service\\Services\\OrderService.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.service\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:15:30.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Repositories\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.Repositories\\Repositories\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Repositories\\PaymentRepository.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.Repositories\\Repositories\\PaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:12:35.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.Repositories\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.Repositories\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:12:25.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Interfaces\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.Repositories\\Interfaces\\IPaymentRepository.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Interfaces\\IPaymentRepository.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.Repositories\\Interfaces\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:11:38.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.Repositories\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Entities\\Payment.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.Repositories\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:51:55.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "..\\EventFlowerExchange.Repositories\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\PHILONG\\Documents\\T\u00E0i li\u1EC7u project\\Source code\\EventFlowerExchange.Repositories\\Entities\\Order.cs",
+              "RelativeToolTip": "..\\EventFlowerExchange.Repositories\\Entities\\Order.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA6wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:51:50.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EventFlowerExchange.WebApp.props" />
+</Project>
