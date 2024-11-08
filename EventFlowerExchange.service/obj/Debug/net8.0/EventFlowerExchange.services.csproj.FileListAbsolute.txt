@@ -13,3 +13,4 @@ C:\Users\PHILONG\Documents\Tài liệu project\Source code\EventFlowerExchange.s
 C:\Users\PHILONG\Documents\Tài liệu project\Source code\EventFlowerExchange.service\obj\Debug\net8.0\refint\EventFlowerExchange.services.dll
 C:\Users\PHILONG\Documents\Tài liệu project\Source code\EventFlowerExchange.service\obj\Debug\net8.0\EventFlowerExchange.services.pdb
 C:\Users\PHILONG\Documents\Tài liệu project\Source code\EventFlowerExchange.service\obj\Debug\net8.0\ref\EventFlowerExchange.services.dll
+C:\Users\PHILONG\Documents\Tài liệu project\Source code\EventFlowerExchange.service\obj\Debug\net8.0\EventFlowerExchange.services.sourcelink.json

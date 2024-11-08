@@ -13,6 +13,6 @@ namespace EventFlowerExchange.Repositories.Interfaces
         Task<IEnumerable<Flower>> GetAllFlowersAsync();
         Task AddFlowerAsync(Flower flower);
         Task UpdateFlowerAsync(Flower flower);
-        Task DeleteFlowerAsync(int id);
+        Task DeleteFlowerAsync(Flower flower);
     }
 }

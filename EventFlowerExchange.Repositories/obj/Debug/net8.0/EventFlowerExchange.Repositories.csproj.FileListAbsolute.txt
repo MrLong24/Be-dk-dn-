@@ -12,3 +12,4 @@ C:\Users\PHILONG\Documents\Tài liệu project\Source code\EventFlowerExchange.R
 C:\Users\PHILONG\Documents\Tài liệu project\Source code\EventFlowerExchange.Repositories\bin\Debug\net8.0\EventFlowerExchange.Repositories.runtimeconfig.json
 C:\Users\PHILONG\Documents\Tài liệu project\Source code\EventFlowerExchange.Repositories\obj\Debug\net8.0\EventFlowerExchange.Repositories.csproj.AssemblyReference.cache
 C:\Users\PHILONG\Documents\Tài liệu project\Source code\EventFlowerExchange.Repositories\obj\Debug\net8.0\EventFlowerExchange.Repositories.genruntimeconfig.cache
+C:\Users\PHILONG\Documents\Tài liệu project\Source code\EventFlowerExchange.Repositories\obj\Debug\net8.0\EventFlowerExchange.Repositories.sourcelink.json

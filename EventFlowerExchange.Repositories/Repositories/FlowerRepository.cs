@@ -66,34 +66,36 @@ namespace EventFlowerExchange.Repositories.Repositories
 
         public async Task UpdateFlowerAsync(Flower flower)
         {
-            if(flower==null) throw new ArgumentNullException(nameof(flower));
+            if (flower == null)
+                throw new ArgumentNullException(nameof(flower));
 
             try
             {
                 _context.Flowers.Update(flower);
                 await _context.SaveChangesAsync();
             }
-            catch (Exception ex) {
-                throw new Exception("Error updating flower", ex);
+            catch (Exception ex)
+            {
+                throw new Exception("Error updating flower in repository", ex);
             }
         }
 
-        public async Task DeleteFlowerAsync(int id)
+
+        public async Task DeleteFlowerAsync(Flower flower)
         {
+            if (flower == null)
+                throw new ArgumentNullException(nameof(flower));
+
             try
             {
-                var flower = await _context.Flowers.Where(p=>p.Id.Equals(id)).FirstOrDefaultAsync();
-                if (flower != null)
-                {
-                    _context.Flowers.Remove(flower);
-                    await _context.SaveChangesAsync();
-                }
-                else
-                    throw new KeyNotFoundException("Flower not found");
+                _context.Flowers.Remove(flower);
+                await _context.SaveChangesAsync();
             }
-            catch (Exception ex) {
-                throw new Exception("Error deleting flower", ex);
+            catch (Exception ex)
+            {
+                throw new Exception("Error deleting flower in repository", ex);
             }
         }
+
     }
 }

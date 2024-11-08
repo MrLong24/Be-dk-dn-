@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lHuSz7OcQBA=",
+  "dgSpecHash": "ZyuD42vFJKU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PHILONG\\Documents\\Tài liệu project\\Source code\\EventFlowerExchange\\EventFlowerExchange.WebApp.csproj",
+  "projectFilePath": "C:\\Users\\PHILONG\\Documents\\Tài liệu project\\Source code\\EventFlowerExchange.webapp\\EventFlowerExchange.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PHILONG\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\PHILONG\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

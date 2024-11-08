@@ -59,13 +59,25 @@ namespace EventFlowerExchange.services.Services
             }
         }
 
-        public async Task UpdateFlowerAsync(Flower flower)
+        public async Task UpdateFlowerAsync(Flower updatedFlower)
         {
-            if (flower == null) throw new ArgumentNullException(nameof(flower));
+            if (updatedFlower == null)
+                throw new ArgumentNullException(nameof(updatedFlower));
 
             try
             {
-                await _flowerRepository.UpdateFlowerAsync(flower);
+                var existingFlower = await _flowerRepository.GetFlowerByIdAsync(updatedFlower.Id);
+                if (existingFlower == null)
+                    throw new Exception("Flower not found");
+
+                existingFlower.Name = updatedFlower.Name;
+                existingFlower.Quantity = updatedFlower.Quantity;
+                existingFlower.Condition = updatedFlower.Condition;
+                existingFlower.PricePerUnit = updatedFlower.PricePerUnit;
+                existingFlower.SellerId = updatedFlower.SellerId;
+                existingFlower.Description = updatedFlower.Description;
+
+                await _flowerRepository.UpdateFlowerAsync(existingFlower);
             }
             catch (Exception ex)
             {
@@ -73,20 +85,22 @@ namespace EventFlowerExchange.services.Services
             }
         }
 
-        public async Task DeleteFlowerAsync(int id)
+
+        public async Task DeleteFlowerAsync(int flowerId)
         {
             try
             {
-                await _flowerRepository.DeleteFlowerAsync(id);
-            }
-            catch (KeyNotFoundException knfEx)
-            {
-                throw new KeyNotFoundException(knfEx.Message, knfEx);
+                var existingFlower = await _flowerRepository.GetFlowerByIdAsync(flowerId);
+                if (existingFlower == null)
+                    throw new Exception("Flower not found");
+
+                await _flowerRepository.DeleteFlowerAsync(existingFlower);
             }
             catch (Exception ex)
             {
                 throw new Exception("Error in FlowerService while deleting flower", ex);
             }
         }
+
     }
 }
